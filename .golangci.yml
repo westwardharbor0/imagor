@@ -1,0 +1,13 @@
+linters:
+  enable-all: true
+  disable:
+    - depguard
+    - forbidigo
+    - exhaustruct
+    - gomnd
+    - gochecknoglobals
+    - godox
+    - mnd
+    - err113
+    - gofumpt
+    - execinquery
