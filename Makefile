@@ -1,4 +1,4 @@
-.PHONY: build
+.PHONY: prepare build
 
 prepare: # Tidy and install the cli command.
 	go mod tidy
