@@ -20,3 +20,6 @@ testdata/test_*
 *.py
 
 .DS_STORE
+
+build/bin/*
+!build/bin/.gitkeep
